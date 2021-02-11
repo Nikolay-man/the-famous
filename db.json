@@ -1,0 +1,41 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "painting-63186_1280_1.png",
+            "name": "«Рождение Венеры»",
+            "artist": "Сандро Боттичелли",
+            "discount": "2 000 000 $",
+            "price": "1 000 000 $",
+            "purchase": "Купить",
+            "available": true
+        },
+        {
+            "id": 2,
+            "image": "ae973f6678e037cd297053384aa7dca0_1.png",
+            "name": "«Тайная вечеря»",
+            "artist": "Леонардо да Винчи",
+            "price": "3 000 000 $",
+            "purchase": "Купить",
+            "available": true
+        },
+        {
+            "id": 3,
+            "image": "image-19_1.png",
+            "name": "«Сотворение Адама»",
+            "artist": "Микеланджело",
+            "discount": "6 000 000 $",
+            "price": "5 000 000 $",
+            "purchase": "Купить",
+            "available": true
+        },
+        {
+            "id": 4,
+            "image": "20152310142330_1.png",
+            "name": "«Урок анатомии»",
+            "artist": "Рембрандт",
+            "purchase": "Купить",
+            "available": true
+        }
+    ]
+}
